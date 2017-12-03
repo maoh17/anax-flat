@@ -1,7 +1,4 @@
-Copyright &copy; 2017
 
-* [License](license)
-* [Cookies](cookies)
-* [Contact](contact)
+![Jag](img/Magnus160.jpg)
 
-Byline av Magnus 2017-11-20
+Magnus studerar kursen *Teknisk webbdesign och användbarhet* ([design](https://dbwebb.se/kurser/design)) vid Blekinge Tekniska Högskola.

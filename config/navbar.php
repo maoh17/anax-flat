@@ -15,14 +15,14 @@ return [
         "items" => [
 
             "report" => [
-                "text"  => t("Report"),
+                "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
 
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
@@ -32,7 +32,7 @@ return [
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Detta är ett test")
             ],
-            
+
         ],
     ],
 

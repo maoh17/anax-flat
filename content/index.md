@@ -1,16 +1,26 @@
 ---
-titleBreadcrumb: Home
+titleBreadcrumb: Hem
+
+views:
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
 ...
-A website using Anax Flat
-===============================
 
-Hi there.
+Me-sida för Magnus
+==================
 
-Nice of you to stop by.
+2017-11-20
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
+Hej!
 
-Cheers and happy building of websites,  
-/Mikael
+Denna webbplats använder PHP-ramverket Anax Flat och används för kursen *dbwebb design*.
 
-Ändrad av Magnus 2017-11-20
+Jag är en ingenjör, fjällvandrare, skidåkare, student och blivande entrepenör som just nu studerar kurspaketet Webbprogrammering och Databaser, 30hp ([webprog](https://dbwebb.se/utbildning/webbprogrammering-och-databaser-30hp)) på Blekinge Tekniska Högskola.
+
+![Blådalen, Stranda, Norge](img/Bladalen.jpg).
